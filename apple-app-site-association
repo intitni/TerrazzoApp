@@ -5,6 +5,10 @@
             {
                 "appID": "5YKZ4Y3DAW.com.intii.Terrazzo.iOS",
                 "paths": [ "*" ]
+            },
+            {
+                "appID": "2YYWH35CA6.cn.haylion.maas.passenger.dev",
+                "paths": [ "/wechat-payment/*" ]
             }
         ]
     }
